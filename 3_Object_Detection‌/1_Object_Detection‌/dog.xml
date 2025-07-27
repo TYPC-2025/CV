@@ -1,0 +1,14 @@
+<annotation>
+	<folder>1_Object_Detection‌</folder>
+	<filename>dog.jpg</filename>
+	<path>F:\Maker\Learn_Systematically\7_deep_learning_CV\3_Object_Detection‌\1_Object_Detection‌\dog.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
